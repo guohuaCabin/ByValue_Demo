@@ -15,7 +15,6 @@
 #import "UsersDefaultViewController.h"
 #import "SingletonViewController.h"
 #import "kSingleton.h"
-#import "KVCModel.h"
 @interface ViewController ()<UITextFieldDelegate,delegateOutPutValue>
 
 @property(nonatomic,strong)UITextField *textField;
@@ -219,9 +218,5 @@
     self.textField.text = content;
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-   
-}
 
 @end

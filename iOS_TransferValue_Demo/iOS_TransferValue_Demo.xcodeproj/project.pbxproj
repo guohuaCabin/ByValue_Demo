@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E50B6AD61D4B68FF004310B0 /* KVCModel.m in Sources */ = {isa = PBXBuildFile; fileRef = E50B6AD51D4B68FF004310B0 /* KVCModel.m */; };
 		E5183D081D225119007A4AD9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E5183D071D225119007A4AD9 /* main.m */; };
 		E5183D0B1D225119007A4AD9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E5183D0A1D225119007A4AD9 /* AppDelegate.m */; };
 		E5183D0E1D225119007A4AD9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E5183D0D1D225119007A4AD9 /* ViewController.m */; };
@@ -43,8 +42,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E50B6AD41D4B68FF004310B0 /* KVCModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KVCModel.h; sourceTree = "<group>"; };
-		E50B6AD51D4B68FF004310B0 /* KVCModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KVCModel.m; sourceTree = "<group>"; };
 		E5183D031D225119007A4AD9 /* iOS_TransferValue_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_TransferValue_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5183D071D225119007A4AD9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E5183D091D225119007A4AD9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -182,8 +179,6 @@
 				E5183D4A1D2254DF007A4AD9 /* SingletonViewController.m */,
 				E533EF871D23D93B002BA6D1 /* kSingleton.h */,
 				E533EF881D23D93B002BA6D1 /* kSingleton.m */,
-				E50B6AD41D4B68FF004310B0 /* KVCModel.h */,
-				E50B6AD51D4B68FF004310B0 /* KVCModel.m */,
 			);
 			path = OtherViewController;
 			sourceTree = "<group>";
@@ -324,7 +319,6 @@
 				E5183D4B1D2254DF007A4AD9 /* SingletonViewController.m in Sources */,
 				E5183D3F1D225482007A4AD9 /* DelegateViewController.m in Sources */,
 				E533EF891D23D93B002BA6D1 /* kSingleton.m in Sources */,
-				E50B6AD61D4B68FF004310B0 /* KVCModel.m in Sources */,
 				E5183D3C1D22545D007A4AD9 /* BlocksViewController.m in Sources */,
 				E5183D481D2254BD007A4AD9 /* UsersDefaultViewController.m in Sources */,
 				E5183D081D225119007A4AD9 /* main.m in Sources */,

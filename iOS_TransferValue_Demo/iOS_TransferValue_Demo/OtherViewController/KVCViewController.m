@@ -7,7 +7,6 @@
 //
 
 #import "KVCViewController.h"
-#import "KVCModel.h"
 @interface KVCViewController ()
 
 @property(nonatomic,strong)UITextField *textField;
